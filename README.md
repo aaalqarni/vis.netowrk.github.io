@@ -83,7 +83,7 @@ By visually representing the size of each issue cluster node based on the fracti
 
 This section will talk about the implementation of the previous section. Figure 3 illustrates the visualization of the workspace with physics options provided by Pyvis that allow users to customize the interactions between nodes in the graph visualization. These physics options simulate physical forces like springs and other interactions between nodes, resulting in a more natural and visually appealing dynamics of the graph.
 
-![Figure 3](pics/Picture3.png)
+![Figure 3](pics/workspace.png)
 
 **Figure 3: Workspace of the Network Visualization**
 
@@ -94,9 +94,9 @@ This dynamic and interactive behavior of the graph, resembling physical interact
 
 In this visualization, both tweet nodes and brand nodes are assigned the same color. The shared color represents a common attribute or characteristic between the two types of nodes, creating a visual association between tweets and the brands they mention as shown in Figure 4.
 
-![Figure 4](pics/Picture4.png)
+![Figure 4](pics/legends.png)
 
-**Figure 4: Figure 4:Brands Nodes colors**
+**Figure 4: Brands Nodes colors**
 
 For example:
 
