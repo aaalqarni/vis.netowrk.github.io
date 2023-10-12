@@ -26,6 +26,7 @@ The data used for this visualization was collected from Twitter over a period sp
 
 Table 1 provides a breakdown of different clusters and associated issues related to sport products, specifically wearable devices. By categorizing the issues into clusters, this table provides an organized overview of the common problems reported by users of sport products, specifically wearable devices.
 
+
 ## Visualization Network Description
 
 The visualization network depicts relationships between nodes in the graph, with three types of nodes: Tweets, Brands, and Clusters of Issues. The edges connect these nodes to illustrate connections and associations:
